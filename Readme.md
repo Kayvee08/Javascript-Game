@@ -1,0 +1,1 @@
+<h1>A Simple Javascript dice game that works on reloading the Website</h1>
